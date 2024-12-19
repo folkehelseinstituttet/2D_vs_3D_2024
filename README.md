@@ -1,3 +1,17 @@
+# Supplementary material for: https://pubmed.ncbi.nlm.nih.gov/39551125/
+'Transcriptomic characterization of 2D and 3D human induced pluripotent stem cell-based in vitro models as New Approach Methodologies for developmental neurotoxicity testing' 
+
+Containes python scripts and results, version in Zenodo:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11397464.svg)](https://zenodo.org/records/11397464)
+
+# Simplified pipeline
+![Figure 1](https://github.com/bazyliszek/2D_vs_3D_2024.jpg)
+
+# Summary
+[script.r](https://github.com/bazyliszek/2D_vs_3D_2024/script.r) Main R script  
+
+
+
 # 2D_vs_3D_2024
 2D_vs_3D_2024
 
