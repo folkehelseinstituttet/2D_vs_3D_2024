@@ -12,10 +12,10 @@ The safety and developmental neurotoxicity (DNT) potential of chemicals remain c
 #Keywords: 
 Applicability domain; DNT IVB; Developing human brain; Hazard assessment; Human neural progenitor cells.
 
-# Simplified pipeline
+#Simplified pipeline
 ![Figure 1](https://github.com/bazyliszek/2D_vs_3D_2024.jpg)
 
-# Summary
+#Summary
 [script.r](https://github.com/bazyliszek/2D_vs_3D_2024/script.r) Main R script  
 
 
