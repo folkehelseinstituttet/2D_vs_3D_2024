@@ -10,15 +10,15 @@ The safety and developmental neurotoxicity (DNT) potential of chemicals remain c
 
 #Summary of documents:
 
-[downstream_analysis_script.R](https://github.com/bazyliszek/2D_vs_3D_2024/downstream_analysis_script.R)      Main R script with downstream analysis and production of files used for further vizualizations
+[downstream analysis](https://github.com/bazyliszek/2D_vs_3D_2024/downstream_analysis_script.R)      Main R script with downstream analysis and production of files used for further vizualizations
 
-[deseq2.dds.RData](https://github.com/bazyliszek/2D_vs_3D_2024/ddeseq2.dds.RData)      DDS object from DEseq2 produced as described in the paper
+[dds RData](https://github.com/bazyliszek/2D_vs_3D_2024/ddeseq2.dds.RData)      DDS object from DEseq2 produced as described in the paper
 
-[Gene_list_specified_14012024.xlsx](https://github.com/bazyliszek/2D_vs_3D_2024/Gene_list_specified_14012024.xlsx)      List with specified genes for targeted analysis
+[Gene list_specified](https://github.com/bazyliszek/2D_vs_3D_2024/Gene_list_specified_14012024.xlsx)      List with specified genes for targeted analysis
 
-[Gene_list_ML.xlsx](https://github.com/bazyliszek/2D_vs_3D_2024/Gene_list_ML.xlsx)      List with specified genes for targeted analysis
+[Gene list](https://github.com/bazyliszek/2D_vs_3D_2024/Gene_list_ML.xlsx)      List with specified genes for targeted analysis
 
-[220704_samples_run1_2_met_Marcin_Lea_2D_vs_3D.xlsx](https://github.com/bazyliszek/2D_vs_3D_2024/220704_samples_run1_2_met_Marcin_Lea_2D_vs_3D.xlsx)      Samples metadata
+[Metadata file](https://github.com/bazyliszek/2D_vs_3D_2024/220704_samples_run1_2_met_Marcin_Lea_2D_vs_3D.xlsx)      Samples metadata
 
 
 #For results check also: Zenodo:
