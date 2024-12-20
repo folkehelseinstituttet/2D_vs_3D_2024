@@ -28,7 +28,7 @@ Applicability domain; DNT IVB; Developing human brain; Hazard assessment; Human 
 
 
 #Figure
-!['F1_introduction fig_2Dx3D manuscript(1).png'](https://github.com/bazyliszek/2D_vs_3D_2024/'F1_introduction fig_2Dx3D manuscript(1).png')
+![F1.png](https://github.com/bazyliszek/2D_vs_3D_2024/F1.png')
 
 
 
