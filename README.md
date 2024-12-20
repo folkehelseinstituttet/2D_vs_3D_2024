@@ -19,12 +19,16 @@ Applicability domain; DNT IVB; Developing human brain; Hazard assessment; Human 
 [Gene_list_specified_14012024.xlsx](https://github.com/bazyliszek/2D_vs_3D_2024/Gene_list_specified_14012024.xlsx)      List with specified genes for targeted analysis
 
 
+[220704_samples_run1_2_met_Marcin_Lea_2D_vs_3D.xlsx](https://github.com/bazyliszek/2D_vs_3D_2024/220704_samples_run1_2_met_Marcin_Lea_2D_vs_3D.xlsx)      Samples metadata
+
+
 #For results check also: Zenodo:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11397464.svg)](https://zenodo.org/records/11397464)
 
+
 #Figure
-![F1_introduction fig_2Dx3D manuscript(1).png](https://github.com/bazyliszek/2D_vs_3D_2024/F1_introduction fig_2Dx3D manuscript(1).png)
+!['F1_introduction fig_2Dx3D manuscript(1).png'](https://github.com/bazyliszek/2D_vs_3D_2024/'F1_introduction fig_2Dx3D manuscript(1).png')
 
 
 
