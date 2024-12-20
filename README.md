@@ -28,7 +28,7 @@ The safety and developmental neurotoxicity (DNT) potential of chemicals remain c
 
 #Figure
 
-![F1.png](https://github.com/bazyliszek/2D_vs_3D_2024/F1.png')
+![F1.png](https://github.com/bazyliszek/2D_vs_3D_2024/F1.png)
 
 
 
